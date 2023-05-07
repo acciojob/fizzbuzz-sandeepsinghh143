@@ -10,6 +10,6 @@
 		alert("Buzz");
 	}
 	else{
-		alert(i);
+		alert(i.toString());
 	}
 });
